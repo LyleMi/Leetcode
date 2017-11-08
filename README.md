@@ -1,2 +1,4 @@
 # Leetcode
-leetcode oj
+
+My leetcode OJ solution
+
